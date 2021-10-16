@@ -8,25 +8,25 @@ Please follow the link to access the code review video on youtube. Please note t
 
 https://youtu.be/9m5nLJx5d58
 
+### Final Project Overview
+
+Please find below the link to the Word documents that describes changes that were made for the fina project and zip file containing the code and project itself.
+
+https://github.com/Elvina12/Elvina12.github.io/blob/main/Final%20Project%20-%20Elvina%20Medeiros.docx
+https://github.com/Elvina12/cs465-fullstack/tree/CS_Capstone
+
+
 ```markdown
-Syntax highlighted code block
+# What to do with the zip file?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1) Save the extracted file in C:\Users\*your user*
+2) Open Windows PowerShell
+3) Navigate to the file (use cd travlr)
+4) Intstal nodemon
+5) Run Nodemon
+6) You should be able to access http://localhost:3000/ if everything set up correctly
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
