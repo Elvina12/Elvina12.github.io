@@ -10,7 +10,7 @@ https://youtu.be/9m5nLJx5d58
 
 ### Final Project Overview
 
-Please find below the link to the Word documents that describes changes that were made for the fina project and zip file containing the code and project itself.
+Please find below the links to the Word document and a zip file. The word document describes changes that were made for the final project. The zip file contains the code and project itself.
 
 https://github.com/Elvina12/Elvina12.github.io/blob/main/Final%20Project%20-%20Elvina%20Medeiros.docx
 https://github.com/Elvina12/cs465-fullstack/tree/CS_Capstone
@@ -28,10 +28,9 @@ https://github.com/Elvina12/cs465-fullstack/tree/CS_Capstone
 ```
 
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elvina12/Elvina12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thank you for reviewing 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions, please reach out
+https://www.linkedin.com/in/elvina-medeiros-4b4b47191
